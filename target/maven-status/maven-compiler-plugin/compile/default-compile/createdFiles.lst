@@ -1,0 +1,6 @@
+com/toDoList/myApp/service/TacheService.class
+com/toDoList/myApp/repository/TacheRepository.class
+com/toDoList/myApp/model/Tache.class
+com/toDoList/myApp/ToDoListApplication.class
+com/toDoList/myApp/enumeration/Statut.class
+com/toDoList/myApp/controller/TacheController.class

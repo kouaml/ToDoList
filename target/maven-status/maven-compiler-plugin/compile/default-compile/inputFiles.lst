@@ -1,0 +1,6 @@
+/home/kouamlislotte/Bureau/Projets Spring Orchelle/ToDoList/src/main/java/com/toDoList/myApp/ToDoListApplication.java
+/home/kouamlislotte/Bureau/Projets Spring Orchelle/ToDoList/src/main/java/com/toDoList/myApp/controller/TacheController.java
+/home/kouamlislotte/Bureau/Projets Spring Orchelle/ToDoList/src/main/java/com/toDoList/myApp/enumeration/Statut.java
+/home/kouamlislotte/Bureau/Projets Spring Orchelle/ToDoList/src/main/java/com/toDoList/myApp/model/Tache.java
+/home/kouamlislotte/Bureau/Projets Spring Orchelle/ToDoList/src/main/java/com/toDoList/myApp/repository/TacheRepository.java
+/home/kouamlislotte/Bureau/Projets Spring Orchelle/ToDoList/src/main/java/com/toDoList/myApp/service/TacheService.java
